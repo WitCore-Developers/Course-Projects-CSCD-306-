@@ -6,6 +6,8 @@ Source Code for Web Application for end of Semester Project for CSCD 306 (Softwa
 # Searth Web Application 
 <img src="https://github.com/WitCore-Developers/Course-Projects-CSCD-306-/blob/master/Mardown%20Documents/searth_gif_2.gif" width="800" align="center">
 
+--- 
+
 # Usage
 
 1. Install [Node.js](https://nodejs.org/en/)
